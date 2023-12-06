@@ -1,0 +1,1422 @@
+{
+  "EMAIL_EMPTY": {
+    "en": "Please enter email address",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "USERNAME_EMPTY": {
+    "en": "Please enter a username.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "EMAIL_VALID": {
+    "en": "Invalid email address",
+    "ar": "رجاء قم بإدخال بريد الكتروني صحيح."
+  },
+  "CART_ITEM_LIST": {
+    "en": "Cart Items have been listed.",
+    "ar": "رجاء قم بإدخال بريد الكتروني صحيح."
+  },
+  "YOUR_ORDER_PLACED": {
+    "en": "Your order placed successfully",
+    "ar": "رجاء قم بإدخال بريد الكتروني صحيح."
+  },
+  "FIRST_NAME_EMPTY": {
+    "en": "Please enter first name.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "LAST_NAME_EMPTY": {
+    "en": "Please enter last name.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "COUNTRY_NAME_IS_REQUIRED": {
+    "en": "Country name is required.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PASSWORD_EMPTY": {
+    "en": "Please enter your password.",
+    "ar": "من فضلك أدخل رقمك السري."
+  },
+  "CONFPASSWORD_EMPTY": {
+    "en": "Please enter confirm password.",
+    "ar": "من فضلك أدخل رقمك السري."
+  },
+  "COUNTRY_WITH_SAME_NAME": {
+    "en": "Country with same name already exists..",
+    "ar": "من فضلك أدخل رقمك السري."
+  },
+  "MOBILE_EMPTY": {
+    "en": "Please enter your mobile number.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ADDRESS_EMPTY": {
+    "en": "Please enter address.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "INVALID_LOGIN": {
+    "en": "Invalid email or password.",
+    "ar": "البريد الإلكتروني أو كلمة السر خاطئة."
+  },
+  "ACCOUNT_LOGIN": {
+    "en": "Login successfully.",
+    "ar": "تسجيل الدخول بنجاح."
+  },
+  "GET_LIST": {
+    "en": "List Fetched Successfully.",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "GET_CSV": {
+    "en": "Get file.",
+    "ar": "خذ الملف."
+  },
+  "DATA_FOUND": {
+    "en": "Data found successfully.",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "USER_UPDATE_SUCCESS": {
+    "en": "User details updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "WUSER_UPDATE_SUCCESS": {
+    "en": "Wholesale user details updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "SUBADMIN_UPDATE_SUCCESS": {
+    "en": "Subadmin details updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "COUNTRY_UPDATE_SUCCESS": {
+    "en": "Country user details updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "CITY_UPDATE_SUCCESS": {
+    "en": "City user details updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "STORE_UPDATE_SUCCESS": {
+    "en": "Store user details updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "OFFER_UPDATE_SUCCESS": {
+    "en": "Offer updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TOKEN_EMPTY": {
+    "en": "Please enter token.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PASSWORD_CHANGED": {
+    "en": "Password changed successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "OLDPASSWORD_EMPTY": {
+    "en": "old password can not be empty.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "NEWPASSWORD_EMPTY": {
+    "en": "new password can not be empty.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CONFIRMPASSWORD_EMPTY": {
+    "en": "confirm password can not be empty.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PASSWORD_MATCH_ERROR": {
+    "en": "password and confirm password must be same",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "INVALID_OLD_PASSWORD": {
+    "en": "You have entered an incorrect old password.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "AUTH_TOKEN": {
+    "en": "Auth Token regenerated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "storeProductData": {
+    "en": "Products found successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PDF_GENERATED": {
+    "en": "Pdf-Generated Successfully.",
+    "ar": "ولدت قوات الدفاع الشعبي بنجاح."
+  },
+  "USER_ADD_SUCCESS": {
+    "en": "User added successfully and your account will be active after verification.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "WUSER_ADD_SUCCESS": {
+    "en": "Wholesale  User  Added Successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SERVICE_PROVIDER_ADD_SUCCESS": {
+    "en": "Service Provider Added Successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SUBADMIN_ADD_SUCCESS": {
+    "en": "Subadmin Added Successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "COUNTRY_ADD_SUCCESS": {
+    "en": "Country User Added Successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CITY_ADD_SUCCESS": {
+    "en": "City User Added Successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "STORE_ADD_SUCCESS": {
+    "en": "Store User Added Successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "EMAIL_ALREADY_REGISTERED": {
+    "en": "Email is already registered.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "MOBILE_ALREADY_REGISTERED": {
+    "en": "Mobile no is already registered.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "TOKEN_EXPIRED": {
+    "en": "Token is expired.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "NOT_AUTHORIZED": {
+    "en": "You are not Authorized to access this route.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "EMAIL_SENT": {
+    "en": "Email sent successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "EMAIL_HAS_BEEN_SENT_TO_YOUR_EMAIL_ADDRESS_WITH_RESET_PASSWORD_LINK": {
+    "en": "Email has been sent to your email address with reset password link.",
+    "ar": "تم إرسال بريد إلكتروني إلى عنوان بريدك الإلكتروني مع رابط إعادة تعيين كلمة المرور."
+  },
+  "UPDATE_SUCCESS": {
+    "en": "Static content updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ACCOUNT_CREATED": {
+    "en": "User account created successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "USER_NOT_FOUND": {
+    "en": "User Not Found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "WUSER_NOT_FOUND": {
+    "en": "Wholesale user not found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SERVICEPROVIDER_NOT_FOUND": {
+    "en": "Service Provider Not Found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ADMIN_NOT_FOUND": {
+    "en": "Admin Not Found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SUBADMIN_NOT_FOUND": {
+    "en": "Subadmin Not Found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ONLY_ADMIN_CAN_CHANGE_PASSWORD": {
+    "en": "Only admin can change password.",
+    "ar": "يمكن للمسؤول فقط تغيير كلمة المرور."
+  },
+  "COUNTRY_NOT_FOUND": {
+    "en": "Country User Not Found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CITY_NOT_FOUND": {
+    "en": "City User Not Found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "STORE_NOT_FOUND": {
+    "en": "Store User Not Found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "OFFER_NOT_FOUND": {
+    "en": "Offer Not Found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "STATUS_UPDATE": {
+    "en": "Account status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SUBADMIN_STATUS_UPDATE": {
+    "en": "Subadmin account status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "COUNTRY_STATUS_UPDATE": {
+    "en": "Country user account status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CITY_STATUS_UPDATE": {
+    "en": "City user account status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "STORE_STATUS_UPDATE": {
+    "en": "Store user account status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "USER_DELETE": {
+    "en": "User deleted successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "OFFER_DELETE": {
+    "en": "Offer deleted successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SERVICEPROVIDER_DELETE": {
+    "en": "Service Provider deleted successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SERVICEPROVIDER_UPDATE_SUCCESS": {
+    "en": "Service Provider updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SUBADMIN_DELETE": {
+    "en": "Subadmin deleted successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ERROR_OCCUR": {
+    "en": "Error Occured.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "OTP_SENT": {
+    "en": "OTP sent successfully to your mobile.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "OTP_INCORRECT": {
+    "en": "You have entered an incorrect otp.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ALREADY_REGISTERED": {
+    "en": "Mobile or Email address is already registered.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "TITLE_EMPTY": {
+    "en": "Title can't be empty.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CONTENT_EMPTY": {
+    "en": "Content can't be empty",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "INVALID_LOGIN_TYPE": {
+    "en": "You have select an invalid login type.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "COUNTRY_EMPTY": {
+    "en": "Please provide a country.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "COUNTRY_CODE_EMPTY": {
+    "en": "Please provide a country Code.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CURRENCY_EMPTY": {
+    "en": "Please provide a currency.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "OTP_EMPTY": {
+    "en": "Please enter OTP.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "LOGIN_TYPE_EMPTY": {
+    "en": "LOGIN type can't be empty.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "LOGIN_INPUT_EMPTY": {
+    "en": "Please provide mobile or email address.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PHONE_VERIFIED": {
+    "en": "Mobile number verified successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "EMPTY_COUNTRY": {
+    "en": "Country  is necessary.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "INVALID_MOBILE": {
+    "en": "Please enter a valid mobile number.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ID_EMPTY": {
+    "en": "Please provide the id.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "EMAIL_OTP_SENT": {
+    "en": "Email OTP sent successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "OTP_VERIFIED": {
+    "en": "Email OTP verified successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "INVALID_TOKEN": {
+    "en": "You have entered an incorrect token.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "INVALID_OTP_TYPE": {
+    "en": "OTP must be in numeric.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "LEAGUE_STATUS_UPDATE": {
+    "en": "League status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "MATCHES_STATUS_UPDATE": {
+    "en": "Match status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "AMOUNT_ERROR": {
+    "en": "Minimum Amount cant't be greater than Maximum Amount.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SETTING_UPDATE": {
+    "en": "Amount setting updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "MIN_AMOUNT_EMPTY": {
+    "en": "Minimum Amount cant be empty.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "MAX_AMOUNT_EMPTY": {
+    "en": "Maximum Amount cant be empty.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PROFILE_DETAILS": {
+    "en": "Profile details fetched successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "UPLOAD_FAILED": {
+    "en": "Picture not Pic upload.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "EMPTY_FILE_PATH": {
+    "en": "Please upload profile image.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PROFILE_PIC_UPLOADED": {
+    "en": "Profile pic uploaded successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "AMOUNT_EMPTY": {
+    "en": "Please enter Amount.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "AMOUNT_ADDED": {
+    "en": "Amount Added Successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "AMOUNT_WITHDRAWAL": {
+    "en": "Amount withdrawal Successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "INSUFFICIENT_ACCOUNT_BALANCE": {
+    "en": "Insufficient account balance.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "FAQ_CREATED": {
+    "en": "FAQ created successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "FAQ_UPDATED": {
+    "en": "FAQ updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "FAQ_DELETED": {
+    "en": "FAQ deleted successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "BALANCE_FETCHED": {
+    "en": "Wallet balance fetched successsfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "LEAGUE_UPDATED": {
+    "en": "League updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "MATCH_UPDATED": {
+    "en": "Match updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "MATCH_NOT_FOUND": {
+    "en": "Match not found.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "FAQ_STATUS_UPDATE": {
+    "en": "FAQ status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "FAQ NOT FOUND": {
+    "en": "FAQ not found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CARD_ADDED": {
+    "en": "Card added successfully",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "INCORRECT_EXPIRY": {
+    "en": "Expiry Date must be greater than current month & Year",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "CARD_EMPTY": {
+    "en": "Card Number can't be empty",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "INVALID_CARD": {
+    "en": "Card Number must be numeric with length 16",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "CVV_EMPTY": {
+    "en": "CVV can't be empty",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "INVALID_CVV": {
+    "en": "CVV must be numeric with length 3",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "CARD_DELETED": {
+    "en": "Card deleted successfully",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "CARD_NOT_FOUND": {
+    "en": "Requested Card not found",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "BANK_ADDED": {
+    "en": "Bank added successfully",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "ACC_HOLDER_NAME_EMPTY": {
+    "en": "Please enter Account Holder Name.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "BANK_NAME_EMPTY": {
+    "en": "Please enter Bank Name.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "ACCOUNT_EMPTY": {
+    "en": "Please enter Account Number.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "ACCOUNT_NOT_VALID": {
+    "en": "Account Number must be in Numeric.!",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "BANK_CODE_EMPTY": {
+    "en": "Please enter Bank Code.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "BANKCODE_VALID": {
+    "en": "Bank Code must be in Numeric.!",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "BANK_UPDATED": {
+    "en": "Bank updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "BANK_DELETED": {
+    "en": "Bank deleted successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "BANK_NOT_FOUND": {
+    "en": "Bank Details are not found.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "ID_UNAVAILABLE": {
+    "en": "Requested data not found with given ID.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "NAME_LENGTH_MAX": {
+    "en": "Name should not exceed 30 characters.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "NAME_LENGTH_MIN": {
+    "en": "Name should contain atleast 2 characters.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "PHONE_LENGTH_MIN": {
+    "en": "Phone number should contain atleast 7 digits.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "PHONE_LENGTH_MAX": {
+    "en": "Phone number should not exceed 15 digits.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "OTP_LENGTH": {
+    "en": "Invalid OTP.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "STACK_INSUFFICIENT_WALLET": {
+    "en": "Insufficient amount in your wallet",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "EMAIL_EXIST": {
+    "en": "This email id is already registered",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "MOBILE_EXIST": {
+    "en": "This mobile number is already registered",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "STATIC_CONTENT_NOT_FOUND": {
+    "en": "Cant find static content with this given slug.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "OFFER_ADD_SUCCESS": {
+    "en": "Offer added successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "DISCOUNT_EMPTY": {
+    "en": "Discount cant be empty.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "DISCOUNT_IS_MORE_MIN_ORDER_VALUE": {
+    "en": "Discount is more than minimum order value.",
+    "ar": "الخصم أكبر من الحد الأدنى لقيمة الطلب."
+  },
+  "CODE_EMPTY": {
+    "en": "Coupen code cant be empty.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "EXPIRY_EMPTY": {
+    "en": "Expiry date cant be empty..",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "DESCRIPTION_EMPTY": {
+    "en": "Description cant be empty..",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "COUNT_EMPTY": {
+    "en": "Count cant be empty..",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "ASSIGNOFFER_NOT_FOUND": {
+    "en": "Offer Not Found or expired or deactivated.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "OFFER_ASSIGN": {
+    "en": "Offer assigned successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "SIGNUP_MOBILE_VERIFY": {
+    "en": "OTP sent successfully. please verify your mobile.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "SIGNUP_VERIFY_SUCCESS": {
+    "en": "Mobile verified successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "INVALID_OTP": {
+    "en": "Invalid OTP.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "COUNTRY_ADDED": {
+    "en": "Country added successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "NOT_FOUND": {
+    "en": "Not found",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "ADMIN_UPDATE_SUCCESS": {
+    "en": "Admin details updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_CODE_EMPTY": {
+    "en": "Transaction code can't be Empty",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_CODE_STRING": {
+    "en": "Transaction code Should be string",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_ID_EMPTY": {
+    "en": "Booking id can't be Empty",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "MODE_PAYMENT_EMPTY": {
+    "en": "Mode of payment can't be Empty",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "MODE_PAYMENT_NOT_VALID": {
+    "en": "Please add valid mode",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "PAYMENT_STATUS_EMPTY": {
+    "en": "Payment status can't be Empty",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "PAYMENT_STATUS_NOT_VALID": {
+    "en": "Please add valid payment status",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "PAYMENT_UPDATED_SUCCESSFULLY": {
+    "en": "Payment updated successfully.",
+    "ar": "تم تحديث الدفع بنجاح."
+  },
+  "USER_ID_EMPTY": {
+    "en": "User id can't be Empty",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_LIST": {
+    "en": "Transaction list",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_SUCCEDED": {
+    "en": "Transaction was successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_DONT_EXIST": {
+    "en": "Transaction don't exist",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_ALREADY_SUCCESS": {
+    "en": "Transaction status is already successful",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_IS_SUCCESS": {
+    "en": "Transaction status is successful",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_STATUS_FAILED": {
+    "en": "Transaction status is updated failed",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_ALREADY_REFUNDED": {
+    "en": "Transaction already refunded",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_IS_NOT_SUCCESS": {
+    "en": "Transaction is not success",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_CANT_FAIL_COZ_REFUND": {
+    "en": "Transaction cant fail because it is refunded",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_HAS_REFUNDED": {
+    "en": "Transaction has been successfully refunded",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TRANSACTION_CANT_SUCCESS_COZ_REFUND": {
+    "en": "Transaction cant success because it is refunded",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "EARNING_DETAIL": {
+    "en": "Earning Detail",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "EARNING_LIST": {
+    "en": "Earning list",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "OFFER_STATUS_UPDATE": {
+    "en": "Offer status updated successfully.",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "FORGOT_PASSWORD_TYPE_USER": {
+    "en": "Please add correct type in forget password",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "OTP_SUCCESSFULY_SEND": {
+    "en": "OTP successfully send",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TYPE_USER_INVALID_WAY": {
+    "en": "Please add correct type",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "NOTIFICATION_SWITCHED_OFF": {
+    "en": "User Notification is switched off",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "NOTIFICATION_CREATED": {
+    "en": "Notification created successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "NOTIFICATION_NOT_FOUND": {
+    "en": "Notification not found",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "NOTIFICATION_DELETED": {
+    "en": "Notification successfully deleted",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "NOTE_UPDATE_SUCCESSFULLY": {
+    "en": "Note update successfully.",
+    "ar": "تحديث الملاحظة بنجاح."
+  },
+  "USER_NOTIFICATION_FLAG_UPDATED": {
+    "en": "User Notification flag successfully updated",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_DONT_EXIST": {
+    "en": "Booking Dont exist",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "PROVIDER_DONT_EXIST": {
+    "en": "Service provider dont exist",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "ADDRESS_ADDED": {
+    "en": "Address successfully added",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "ADDRESS_NOT_EXIST": {
+    "en": "Address Dont exist",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "ADDRESS_UPDATED": {
+    "en": "Address successfully updated",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "ADDRESS_DELETED": {
+    "en": "Address successfully Deleted",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_ADDON_PAYED": {
+    "en": "Booking addon has been payed",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_COMPLETED": {
+    "en": "Booking is completed",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_IS_ONGOING": {
+    "en": "Booking is ongoing",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_IS_UPCOMING": {
+    "en": "Booking is upcoming",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_IS_CANCELLED_REQUEST": {
+    "en": "Booking cancelled request successfully send",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_CANT_COMPLETE": {
+    "en": "Booking can't change to completed",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_CANT_ONGOING": {
+    "en": "Booking can't change to ongoing",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_ALREADY_ONGOING": {
+    "en": "Booking is already ongoing",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "OTP_IS_VERIFIED": {
+    "en": "OTP Successfully verified",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "OTP_NOT_VERIFIED": {
+    "en": "OTP verification failed",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "OTP_IS_REQUIRED": {
+    "en": "OTP is required",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_ADDON_OBJECT_CREATED": {
+    "en": "Booking addon object created",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_ADDON_FAILED": {
+    "en": "Booking addon failed",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_FAILED": {
+    "en": "Booking failed",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "DATE_APPOINTMENT_EMPTY": {
+    "en": "Date of appointment can't be Empty",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "DATE_APPOINTMENT_NOT_VALID": {
+    "en": "Date of appointment is invalid",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BOOKING_DETAILS": {
+    "en": "Booking detail fetched successfully..!",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "PROVIDE_REASON_PROVIDER_CANCEL": {
+    "en": "Please give reason to cancel the booking",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "CANCEL_BOOKING_REQUEST_EXIST": {
+    "en": "Cancel Request already exist",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "GET_DETAIL": {
+    "en": "Detail successfully searched",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "RATING_ALREADY_GIVEN": {
+    "en": "Rating already given",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "RATING_SUCCESSFULLY_GIVEN": {
+    "en": "Rating Successfully given",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "REVIEW_IS_EMPTY": {
+    "en": "Review Note is empty",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "REVIEW_STRING": {
+    "en": "Review Should be string",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "RATING_EMPTY": {
+    "en": "Rating cant be empty",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "RATING_NUMERIC": {
+    "en": "Rating should be numeric",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "RATING_RANGE": {
+    "en": "Rating should be between 0 and 5",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "RATING_SUCCESSFULLY_EDIT": {
+    "en": "Rating Successfully edited",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BREED_NAME_EXIST": {
+    "en": "Please add breed name",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "GENDER_DONT_EXIST": {
+    "en": "Please add gender",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "PLEASE_ADD_SERVICES": {
+    "en": "Please add services",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "PERMISSION_EMPTY": {
+    "en": "Permission cant be empty.",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "PERMISSION_ADDED": {
+    "en": "Permission updated successfully.",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "DATE_APPOINTMENT_START_EMPTY": {
+    "en": "please add start time of appointment",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "DATE_APPOINTMENT_END_EMPTY": {
+    "en": "Please add end time appointment",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "TIME_TAKEN_EMPTY": {
+    "en": "Time that service take can't be empty",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "CHANGE_SP_SUCCESSFULLY": {
+    "en": "Provider successfully updated",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "CREATED_SUCCESSFULLY": {
+    "en": "Created successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "UPDATED_SUCCESSFULLY": {
+    "en": "updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "FIND_SUCCESSFULLY": {
+    "en": "successfully fetched",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "OFFER_IS_VALID": {
+    "en": "Offer is valid",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "PLEASE_ADD_OFFER":{
+    "en": "Please add promo code",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "OFFER_MAXED_OUT":{
+    "en": "Offer is maxed out",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "STATUS_UPDATE_PROVIDER": {
+    "en": "Service provider status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "USER_STATUS_UPDATE":{
+    "en": "User status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "WUSER_STATUS_UPDATE":{
+    "en": "Wholesale user status updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "NOTIFICATION_READ":{
+    "en": "Notification mark read successfully",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "NOTIFICATION_NOT_READ":{
+    "en": "Notification not mark read",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ALL_NOTIFICATION_READ":{
+    "en": "All Notification mark read successfully",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ID_REQUIRED":{
+    "en": "Notification id is required",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "USER_MINIMUM_ORDER_AMOUNT":{
+    "en": "User minimum order amount updated successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PROVIDER_IS_NOT_FREE":{
+    "en": "No Provider is free",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "LINK_INVALID":{
+    "en": "Link is invalid",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CSV_SUCCESSFULLY":{
+    "en": "csv is successfully created",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "NO_SERVICE_FOUND":{
+    "en": "There are no services",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ADDON_SUCCESSFULLY_SENT":{
+    "en": "Addon successfully sent",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SOCIAL_NOT_REGISTERED":{
+    "en": "user is not registred please signup first.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SOCIAL_ID_EMPTY":{
+    "en": "Social ID cant be empty.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SOCIAL_TYPE_EMPTY":{
+    "en": "Social type cant be empty.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "BOOKING_STATUS_NOT_VALID":{
+    "en": "Booking status is not allowed",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "STATUS_NOT_ALLOWED":{
+    "en": "status is not allowed",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PROVIDER_ON_WAY":{
+    "en": "provider is on the way",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PROVIDER_REACHED":{
+    "en": "provider reached to location",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PROVIDER_CANT_FIND_USER":{
+    "en": "provider cant find the user",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PROVIDER_STARTED_THE_TASK":{
+    "en": "provider started the task",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PROVIDER_COMPLETED_THE_TASK":{
+    "en": "provider completed the task",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "STATUS_NOT_VALID":{
+    "en": "driver status not valid",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CANT_TRACK_USER_FOR_NOW":{
+    "en": "You cant track user for now",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "FCM_TOKEN_NOT_FOUND":{
+    "en": "Notification can't be send",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SELECT_USER":{
+    "en": "Please Select the user",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "TIME_SLOT_NOT_PICK":{
+    "en": "Time slot is not picked",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "WAITING_APPOINTMENT_ACCEPTED":{
+    "en": "Waiting appointment succesfully accepted",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "BOOKING_NOT_FOUND":{
+    "en": "Booking not found",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CANCEL_BOOKING_DONT_EXIST":{
+    "en": "Cancel Booking not found",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CANCELLED_SUCCESSFULLY":{
+    "en": "Cancel Booking successfully done",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "Settings Already Exists for this country":{
+    "en": "Settings Already Exists for this country.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "WS product category price list":{
+    "en": "WS product category price list.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "RATING_UPDATED": {
+    "en": "Rating updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "OTHER_LOCATION": {
+    "en": "Sorry, but we are unable to provide service at your location at this time!",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "RIGHT_LOCATION": {
+    "en": "We can deliver at your location",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "CATEGORY_ADDED": {
+    "en": "Category added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CATEGORY_UPDATED": {
+    "en": "Category updated successfully",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "CATEGORY_UPDATED_ORDER": {
+    "en": "Category order Updated successfully",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "CITY_ADDED": {
+    "en": "City added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CITY_UPDATED": {
+    "en": "City updated successfully",
+    "ar": "تم تحديث المباراة بنجاح."
+  },"CITY_STATUS_UPDATED": {
+    "en": "City status updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "CMS_ADDED": {
+    "en": "Content added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CMS_UPDATED": {
+    "en": "Content updated successfully",
+    "ar": "تم تحديث المباراة بنجاح."
+  },"CMS_STATUS_UPDATED": {
+    "en": "Content status updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  }, 
+  "COUNTRY_UPDATED": {
+    "en": "Country updated successfully",
+    "ar": "تم تحديث المباراة بنجاح."
+  },"COUNTRY_STATUS_UPDATED": {
+    "en": "Country status updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "DRIVER_NOT_FOUND": {
+    "en": "Driver Not Found.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "DRIVER_ADD_SUCCESS": {
+    "en": "Driver added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "DRIVER_UPDATE_SUCCESS": {
+    "en": "Driver details updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "DRIVER_STATUS_UPDATE": {
+    "en": "Driver status updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },"DRIVER_UPDATED_SUCCESSFULLY": {
+    "en": "Driver updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },"DRIVER_AVAILABILITY_UPDATED_SUCCESSFULLY": {
+    "en": "Driver availability updated successfully.",
+    "ar": "تم تحديث توفر برنامج التشغيل بنجاح."
+  },"EMAIL_TEMPLATE_ADDED": {
+    "en": "Email template added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "FEEDBACK_ADDED": {
+    "en": "Feedback added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "HOME_ADDEDh": {
+    "en": "Home image added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "HOME_IMAGE_UPDATED": {
+    "en": "Home Image updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "BANNER_IMAGE_UPDATED": {
+    "en": "Banner Image updated successfully",
+    "ar":"تم تحديث صورة البانر بنجاح"
+  },
+  "ORDER_STATUS_UPDATED": {
+    "en": "Order status updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "ORDER_CANCEL": {
+    "en": "Order cancel successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  }, 
+  "ORDER_RESCHEDULE": {
+    "en": "Order reschedule successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "RE_ORDER": {
+    "en": "Reorder successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  }, 
+  "ORDER_UPDATED_SUCCESSFULLY": {
+    "en": "Order updated successfully.",
+    "ar": "تم تحديث الطلب بنجاح."
+  }, 
+  "ONLY_DELIVERED_ORDERED_UPDATE": {
+    "en": "Only delivered ordered update.",
+    "ar": "تم تسليم التحديث المطلوب فقط."
+  }, 
+  "ASSIGN_DRIVER_BOY": {
+    "en": "Assign delivery boy.",
+    "ar": "تم تحديث المباراة بنجاح."
+  }, 
+  "PRODUCT_ADDED": {
+    "en": "Product added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SPACIAL_PRODUCT": {
+    "en": "This is special product you can't purchase.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PAYMENT_COMPLETED_SUCCESSFULLY": {
+    "en": "Payment completed successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "USER_LOGOUT": {
+    "en": "User logout successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PRODUCT_UPDATED": {
+    "en": "Product updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "LOYALTY_POINT_ADDED": {
+    "en": "Loyalty point added successfully.",
+    "ar": "تمت إضافة نقطة الولاء بنجاح."
+  },
+  "INVENTORY_ADDED": {
+    "en": "Inventry added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "INVENTORY_UPDATED": {
+    "en": "Inventry updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "DATA_RECEIVED": {
+    "en": "Data found successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "SETTING_ADDED": {
+    "en": "Settings added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SETTING_UPDATED": {
+    "en": "Settings updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "SETTING_STATUS_UPDATED": {
+    "en": "Settings status updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  }, 
+  "STORE_ADDED": {
+    "en": "Store added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "STORE_UPDATED": {
+    "en": "Store updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "STORE_STATUS_UPDATED": {
+    "en": "Store status updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "SUPPLIER_ADDED": {
+    "en": "Supplier added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "SUPPLIER_UPDATED": {
+    "en": "Supplier updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "VAT_CODE_ADDED": {
+    "en": "Vat code added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "HOME_ADDED": {
+    "en": "Home image added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "VAT_CODE_UPDATED": {
+    "en": "Vat code updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "WHOLESALE_USER_CATEGORY_ADDED": {
+    "en": "Wholesale user category added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "WHOLESALE_USER_CATEGORY_UPDATED": {
+    "en": "Wholesale user category updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "WHOLESALE_USER_CATEGORY_STATUS_UPDATED": {
+    "en": "Wholesale user category status updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "WS_BUSINESS_TYPE_ADDED": {
+    "en": "Wholesale business type added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "WS_BUSINESS_TYPE_UPDATED": {
+    "en": "Wholesale business type updated successfully",
+    "ar": "قائمة المستخدمين تحقق النجاح"
+  },
+  "WS_BUSINESS_TYPE_STATUS_UPDATED": {
+    "en": "Wholesale business type status updated successfully.",
+    "ar": "تم تحديث المباراة بنجاح."
+  },
+  "FAVORITE_ADDED": {
+    "en": "Favorite added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "FAVORITE_DELETED": {
+    "en": "Favorite deleted successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "RATING_ADDED": {
+    "en": "Rating added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "NOTIFY_ADDED": {
+    "en": "Product notify successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "NOTIFICATION_SETTING_UPDATED_SUCCESSFULLY": {
+    "en": "Notification setting updated successfully",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "COUPON_APPLIED": {
+    "en": "Coupon applied successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "RATING_DELETED": {
+    "en": "Rating deleted successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  
+  "USER_NOT_APPROVE": {
+    "en": "User is not approved from admin.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "CART_UPDATED": {
+    "en": "Cart Item has been added successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "PRODUCT_FROM_OTHER_STORE": {
+    "en": "Your cart contains items from another store, would you like to reset your cart?",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "DELIVERY_ADDED": {
+    "en": "Delivery added successfully",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "REMOVE_ITEM": {
+    "en": "Cart Items have been deleted.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "POINTS_REDEEM": {
+    "en": "loyalty points redeem successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "POINTS_REDEEM_NOT": {
+    "en": "loyalty points not redeem.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "REMOVE_REDEEM": {
+    "en": "loyalty points removed successfully.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "UPDATED_ITEM": {
+    "en": "Cart Items have been updated.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "EMPTY_CART": {
+    "en": "Coupon Can not apply on empty cart.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "EMPTY_CART_DELIVERY": {
+    "en": "Empty cart.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "INVALID_COUPON": {
+    "en": "Invalid Coupon Code.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "COUPON_CODE_EXPIRED": {
+    "en": " Coupon Code Expired.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "COUPON_CODE_MAX_REACH": {
+    "en": " Coupon Code has reached to maximum uses.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "COUPON_NOT_APPLY": {
+    "en": " This coupon code will not apply on this user.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "USED_COUPON": {
+    "en": " You have already used this coupon code.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ADDRESS_EMPTY_CART": {
+    "en": "Address cannot apply on empty cart.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "ORDER_ITEM_LISTED": {
+    "en": "Order Items have been listed.",
+    "ar": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك."
+  },
+  "STATUS_UPDATED":{
+    "en":"Status updated successfully.",
+    "ar":"Statusi u përditësua me sukses."
+  }
+  
+}
